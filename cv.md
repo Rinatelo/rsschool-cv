@@ -1,3 +1,3 @@
 # Rinat Abzalutdinov
 
-## Contact
+## Contacts
