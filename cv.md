@@ -13,7 +13,7 @@
 
       ---
 
-      ### The Person Behind the Profile:
+      ### A Little Bit About Me:
       My name is Rinat and I am a junior frontend developer with a passion for building beautiful and functional websites. From a young age, I have always been interested in technology and how it can be used to create new and exciting experiences online.
 
       I pursued my passion by studying computer science at university and honing my skills through various online courses and personal projects. Through these experiences, I have developed proficiency in HTML, CSS, JavaScript, and several popular frontend frameworks.
