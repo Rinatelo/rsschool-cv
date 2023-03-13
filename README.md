@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Rinatelo.github.io/rsschool-cv/cv
